@@ -4,7 +4,7 @@
 # 30 April 2019 and taken down after legal threats from some of those sites 2 days 
 # later. This list is for use with the Pi-Hole and other DNS-based website filtering.
 #
-# Location: https://github.com/jumile/poynter
+# Location: https://github.com/couladin/poynter
 # Updated: 5 September 2019
 
 # ===== Start of list =====
