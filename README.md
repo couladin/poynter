@@ -1,5 +1,6 @@
 # Poynter's _Index of Unreliable News Websites_ (excluding _satire_)
-Domain block list based on Poynter's [_An Index of Unreliable News Websites_](http://www.poynter.org/ifcn/unreliable-news-index/) Internet Fact Checking Network article from 30 April 2019 and taken down after legal threats from some of those sites 2 days later. The original list is their property and was downloaded thanks to the Wayback Machine.
+
+Domain block list based on Poynter's [_An Index of Unreliable News Websites_](http://www.poynter.org/ifcn/unreliable-news-index/) Internet Fact Checking Network article from 30 April 2019 and taken down after legal threats from some of those sites 2 days later. Their retraction notice [can be found here](https://www.poynter.org/letter-from-the-editor/2019/letter-from-the-editor/). The original list is their property and was downloaded thanks to the Wayback Machine.
 
 It's intended for use with the [Pi-Hole](https://pi-hole.net/) or other DNS-based website filtering, and uses standard /etc/hosts file format, e.g.:
 ```
